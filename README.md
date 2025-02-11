@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pirrera Simone, PhD student at Politecnico di Torino.
-- 👀 I’m interested in Control, System Identification, Optimization and Machine Learning.
+- 👀 I’m interested in Control, System Identification, Optimization, and Machine Learning.
 - 📫 You can reach me through simonepirrera@polito.it
 
 <!---
